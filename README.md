@@ -11,6 +11,13 @@
 
 ---
 
+## 📸 Demonstração da Aplicação
+
+<p align="center">
+  <img src="preview/dashboard-preview.jpg" alt="Página Inicial do Galeria+" width="49%" />
+  <img src="preview/dashboard-preview1.jpg" alt="Detalhes da Imagem" width="49%" />
+</p>
+
 ## 💻 Sobre o Projeto
 
 O **Galeria+** é uma aplicação de gerenciamento e visualização de fotos desenvolvida como um projeto de estudo aprofundado em **ReactJS** através da plataforma **Rocketseat**. 
